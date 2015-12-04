@@ -22,6 +22,11 @@
 
 - The Clean Coder: A Code of Conduct for Professional Programmers ([Amazon](http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073))
 
-- Metaprogramming Ruby 2: Program Like the Ruby Pros by Paolo Perrotta ([PragProg](https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2))
+- Metaprogramming Ruby 2: Program Like the Ruby Pros by Paolo Perrotta ([PragProg](https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2)) + Ruby Metaprogramming Screencast by Dave Thomas ([PragProg](https://pragprog.com/screencasts/v-dtrubyom/the-ruby-object-model-and-metaprogramming))
 
 - Refactoring: Improving the Design of Existing Code ([Amazon](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672))
+
+### additional books
+
+- Ruby under microscope by Pat Shaughnessy ([site](http://patshaughnessy.net/ruby-under-a-microscope))
+- Rails as she spoke by Giles Bowkett ([site](http://railsoopbook.com/))
