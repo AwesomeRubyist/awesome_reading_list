@@ -12,7 +12,7 @@
 
 - The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler ([PragProg](https://pragprog.com/titles/cfcar2/the-passionate-programmer))
 
-- [The Cucumber Book: Behaviour-Driven Development for Testers and Developers by Matt Wynne and Aslak Hellesøy ([PragProg](https://pragprog.com/book/hwcuc/the-cucumber-book))]
+- The Cucumber Book: Behaviour-Driven Development for Testers and Developers by Matt Wynne and Aslak Hellesøy ([PragProg](https://pragprog.com/book/hwcuc/the-cucumber-book))
 
 - EXCEPTIONAL RUBY by Avdi Grimm ([site](http://exceptionalruby.com))
 
