@@ -1,6 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## 12 months books
+- The Well-Grounded Rubyist (2nd edition) by David A. Black ([Amazon](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/ref=pd_sim_14_4?ie=UTF8&dpID=51qtp4NzjRL&dpSrc=sims&preST=_AC_UL160_SR128%2C160_&refRID=10CWMCJ7D3146DQPQSC3))
 
 - Programming Ruby (2nd edition): The Pragmatic Programmers' Guide by Dave Thomas, with Chad Fowler and Andy Hunt ([O'Reilly](http://shop.oreilly.com/product/9780974514055.do))
 
