@@ -1,3 +1,5 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ## 12 months books
 
 - Programming Ruby (2nd edition): The Pragmatic Programmers' Guide by Dave Thomas, with Chad Fowler and Andy Hunt ([O'Reilly](http://shop.oreilly.com/product/9780974514055.do))
