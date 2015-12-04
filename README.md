@@ -27,3 +27,4 @@
 
 - Ruby under microscope by Pat Shaughnessy ([site](http://patshaughnessy.net/ruby-under-a-microscope))
 - Rails as she spoke by Giles Bowkett ([site](http://railsoopbook.com/))
+- Ruby Hacking Guide ([site](https://ruby-hacking-guide.github.io/))
