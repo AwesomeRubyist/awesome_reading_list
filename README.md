@@ -10,11 +10,7 @@
 
 - Practical Object-Oriented Design in Ruby by Sandi Metz ([site](http://www.poodr.com))
 
-- Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development by José Valim ([PragProg](https://pragprog.com/book/jvrails2/crafting-rails-4-applications))
-
 - The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler ([PragProg](https://pragprog.com/titles/cfcar2/the-passionate-programmer))
-
-- The Cucumber Book: Behaviour-Driven Development for Testers and Developers by Matt Wynne and Aslak Hellesøy ([PragProg](https://pragprog.com/book/hwcuc/the-cucumber-book))
 
 - EXCEPTIONAL RUBY by Avdi Grimm ([site](http://exceptionalruby.com))
 
