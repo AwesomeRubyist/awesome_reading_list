@@ -25,7 +25,7 @@
 
 - Everyday Rails Testing with RSpec ([Leanpub](https://leanpub.com/everydayrailsrspec))
 
-### additional books
+### Additional books
 
 - Ruby under microscope by Pat Shaughnessy ([site](http://patshaughnessy.net/ruby-under-a-microscope))
 - Rails as she spoke by Giles Bowkett ([site](http://railsoopbook.com/))
@@ -33,3 +33,5 @@
 - Growing Rails Applications in Practice ([PragProg](https://pragprog.com/news/growing-rails-applications-in-practice))
 - Crafting Rails 4 Applications ([Amazon](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556))
 - Pragmatic Programmer: From Journeyman to Master ([PragProg](https://pragprog.com/book/tpp/the-pragmatic-programmer))
+- Working with ruby threads ([PragProd](https://pragprog.com/book/jsthreads/working-with-ruby-threads))
+- Ruby performance optimization  ([PragProd](https://pragprog.com/book/adrpo/ruby-performance-optimization))
