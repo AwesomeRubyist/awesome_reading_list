@@ -35,4 +35,3 @@
 - Pragmatic Programmer: From Journeyman to Master ([PragProg](https://pragprog.com/book/tpp/the-pragmatic-programmer))
 - Working with ruby threads ([PragProd](https://pragprog.com/book/jsthreads/working-with-ruby-threads))
 - Ruby performance optimization  ([PragProd](https://pragprog.com/book/adrpo/ruby-performance-optimization))
-- Ruby Hacking Guide ([off site](https://ruby-hacking-guide.github.io))
