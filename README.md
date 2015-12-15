@@ -32,7 +32,10 @@
 - Ruby Hacking Guide ([site](https://ruby-hacking-guide.github.io/))
 - Growing Rails Applications in Practice ([PragProg](https://pragprog.com/news/growing-rails-applications-in-practice))
 - Crafting Rails 4 Applications ([Amazon](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556))
-- Pragmatic Programmer: From Journeyman to Master ([PragProg](https://pragprog.com/book/tpp/the-pragmatic-programmer))
 - Working with ruby threads ([PragProg](https://pragprog.com/book/jsthreads/working-with-ruby-threads))
 - Ruby performance optimization ([PragProg](https://pragprog.com/book/adrpo/ruby-performance-optimization))
 - Ruby Science: The reference for writing fantastic Rails applications ([link](https://gumroad.com/l/ruby-science))
+
+### General books
+- Seven Languages in Seven Weeks ([PragProg](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)) - A Pragmatic Guide to Learning Programming Languages
+- Pragmatic Programmer: From Journeyman to Master ([PragProg](https://pragprog.com/book/tpp/the-pragmatic-programmer))
