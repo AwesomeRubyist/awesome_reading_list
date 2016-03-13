@@ -39,3 +39,6 @@
 ### General books
 - Seven Languages in Seven Weeks ([PragProg](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)) - A Pragmatic Guide to Learning Programming Languages
 - Pragmatic Programmer: From Journeyman to Master ([PragProg](https://pragprog.com/book/tpp/the-pragmatic-programmer))
+
+### Collections
+- Awesome Software Craftsmanship ([github](https://github.com/benas/awesome-software-craftsmanship)) - "As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft"
