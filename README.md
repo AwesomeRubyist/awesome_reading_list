@@ -11,6 +11,8 @@
 
 - Practical Object-Oriented Design in Ruby by Sandi Metz ([site](http://www.poodr.com))
 
+- 99 Bottles of OOP by Sandi Metz([site](http://www.sandimetz.com/99bottles))
+
 - The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler ([PragProg](https://pragprog.com/titles/cfcar2/the-passionate-programmer))
 
 - EXCEPTIONAL RUBY by Avdi Grimm ([site](http://exceptionalruby.com))
