@@ -37,6 +37,7 @@
 - Working with ruby threads ([PragProg](https://pragprog.com/book/jsthreads/working-with-ruby-threads))
 - Ruby performance optimization ([PragProg](https://pragprog.com/book/adrpo/ruby-performance-optimization))
 - Ruby Science: The reference for writing fantastic Rails applications ([link](https://gumroad.com/l/ruby-science))
+- RubyFu - Ruby for hackers ([gitbook](https://www.gitbook.com/book/rubyfu/rubyfu/details))
 
 ### General books
 - Seven Languages in Seven Weeks ([PragProg](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)) - A Pragmatic Guide to Learning Programming Languages
