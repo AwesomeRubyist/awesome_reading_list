@@ -5,7 +5,7 @@
 
 - Programming Ruby (2nd edition): The Pragmatic Programmers' Guide by Dave Thomas, with Chad Fowler and Andy Hunt ([O'Reilly](http://shop.oreilly.com/product/9780974514055.do))
 
-- Agile Web Development with Rails 4 by Sam Ruby ([PragProg](https://pragprog.com/book/rails4/agile-web-development-with-rails-4))
+- Agile Web Development with Rails 5 by Sam Ruby ([PragProg](https://pragprog.com/book/rails5/agile-web-development-with-rails-5))
 
 - The RSpec Book: Behaviour-Driven Development with RSpec, Cucumber, and Friends by David Chelimsky, Dave Astels, Zach Dennis, Aslak Hellesøy, Bryan Helmkamp, Dan North ([PragProg](https://pragprog.com/book/achbd/the-rspec-book))
 
