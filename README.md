@@ -27,6 +27,8 @@
 
 - Everyday Rails Testing with RSpec ([Leanpub](https://leanpub.com/everydayrailsrspec))
 
+ - Minitest Cookbook by Chris Kottom ([site](https://chriskottom.com/minitestcookbook/))
+
 ### Additional books
 
 - Ruby under microscope by Pat Shaughnessy ([site](http://patshaughnessy.net/ruby-under-a-microscope))
@@ -38,6 +40,7 @@
 - Ruby performance optimization ([PragProg](https://pragprog.com/book/adrpo/ruby-performance-optimization))
 - Ruby Science: The reference for writing fantastic Rails applications ([link](https://gumroad.com/l/ruby-science))
 - RubyFu - Ruby for hackers ([gitbook](https://www.gitbook.com/book/rubyfu/rubyfu/details))
+- Kestrels, Quirky Birds, and Hopeless Egocentricity - Raganwald's collected adventures in Combinatory Logic and Ruby Meta-Programming ([Leanpub](https://leanpub.com/combinators))
 
 ### General books
 - Seven Languages in Seven Weeks ([PragProg](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)) - A Pragmatic Guide to Learning Programming Languages
