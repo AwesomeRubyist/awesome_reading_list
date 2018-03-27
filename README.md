@@ -15,8 +15,6 @@
 
 - Design Patterns in Ruby ([site](http://designpatternsinruby.com/))
 
-- Ruby Science by thoughtbot, Joe Ferris, Harlow Ward -  ([site](https://ru.scribd.com/document/266755527/thoughtbot-Joe-Ferris-Harlow-Ward-Ruby-Science-pdf))
-
 - The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler ([PragProg](https://pragprog.com/titles/cfcar2/the-passionate-programmer))
 
 - EXCEPTIONAL RUBY by Avdi Grimm ([site](http://exceptionalruby.com))
