@@ -11,7 +11,11 @@
 
 - Practical Object-Oriented Design in Ruby by Sandi Metz ([site](http://www.poodr.com))
 
-- 99 Bottles of OOP by Sandi Metz([site](http://www.sandimetz.com/99bottles))
+- 99 Bottles of OOP by Sandi Metz ([site](http://www.sandimetz.com/99bottles))
+
+- Design Patterns in Ruby ([site](http://designpatternsinruby.com/))
+
+- Ruby Science by thoughtbot, Joe Ferris, Harlow Ward -  ([site](https://ru.scribd.com/document/266755527/thoughtbot-Joe-Ferris-Harlow-Ward-Ruby-Science-pdf))
 
 - The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler ([PragProg](https://pragprog.com/titles/cfcar2/the-passionate-programmer))
 
@@ -34,6 +38,8 @@
 - Ruby under microscope by Pat Shaughnessy ([site](http://patshaughnessy.net/ruby-under-a-microscope))
 - Rails as she spoke by Giles Bowkett ([site](http://railsoopbook.com/))
 - Ruby Hacking Guide ([site](https://ruby-hacking-guide.github.io/))
+- Head First Ruby ([site](http://headfirstruby.com/))
+- Rails AntiPatterns by Chad Pytel ([site](https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/B019NE1CE6))
 - Growing Rails Applications in Practice ([PragProg](https://pragprog.com/news/growing-rails-applications-in-practice))
 - Crafting Rails 4 Applications ([Amazon](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556))
 - Working with ruby threads ([PragProg](https://pragprog.com/book/jsthreads/working-with-ruby-threads))
