@@ -29,7 +29,7 @@
 
 - Everyday Rails Testing with RSpec ([Leanpub](https://leanpub.com/everydayrailsrspec))
 
- - Minitest Cookbook by Chris Kottom ([site](https://chriskottom.com/minitestcookbook/))
+- Minitest Cookbook by Chris Kottom ([site](https://chriskottom.com/minitestcookbook/))
 
 ### Additional books
 
@@ -45,10 +45,13 @@
 - Ruby Science: The reference for writing fantastic Rails applications ([link](https://gumroad.com/l/ruby-science))
 - RubyFu - Ruby for hackers ([gitbook](https://www.gitbook.com/book/rubyfu/rubyfu/details))
 - Kestrels, Quirky Birds, and Hopeless Egocentricity - Raganwald's collected adventures in Combinatory Logic and Ruby Meta-Programming ([Leanpub](https://leanpub.com/combinators))
+- Refactoring. Ruby Edition (Professional Ruby Series) ([site](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137))
+- Eloquent Ruby (Professional Ruby Series) ([site](https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104))
 
 ### General books
 - Seven Languages in Seven Weeks ([PragProg](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)) - A Pragmatic Guide to Learning Programming Languages
 - Pragmatic Programmer: From Journeyman to Master ([PragProg](https://pragprog.com/book/tpp/the-pragmatic-programmer))
+- Introduction to Algorithms, Third Edition (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein) ([site](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf))
 
 ### Collections
 - Awesome Software Craftsmanship ([github](https://github.com/benas/awesome-software-craftsmanship)) - "As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft"
