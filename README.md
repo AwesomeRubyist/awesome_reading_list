@@ -31,6 +31,8 @@
 
 - Minitest Cookbook by Chris Kottom ([site](https://chriskottom.com/minitestcookbook/))
 
+- Working with Ruby Threads - ([PragProg](https://pragprog.com/book/jsthreads/working-with-ruby-threads))
+
 ### Additional books
 
 - Ruby under microscope by Pat Shaughnessy ([site](http://patshaughnessy.net/ruby-under-a-microscope))
